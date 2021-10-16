@@ -1,0 +1,45 @@
+.nav-wrapper{
+    padding: 0 20px;
+}
+.price{
+    font-size: 30px;
+}
+.course{
+    width: 1200px;
+    display: flex;
+  
+    flex-direction: column;
+    align-items: center;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.cart img{
+    height: 600px;
+
+}
+.p{
+    font-size: 32px;
+}
+.course img{
+    max-width: 800px;
+    height: auto;
+}
+.body{
+    background-color: indianred;
+}
+
+.course h1{
+margin-bottom: 2rem;
+}
+.course.price.big{
+    font-size: 2.5rem;
+}
+.card-action.actions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
